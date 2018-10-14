@@ -17,7 +17,7 @@ k8sFabricPlayground sets up a kubernetes cluster on three VirtualBox virtual mac
 
 ### Installation
 ```bash
-$ git clone https://github.com/redtree0/k8sFabricPlayground
+$ git clone https://github.com/redtree0/k8sPlayground-HLF.git
 $ cd k8sFabricPlayground
 $ pip install virtualenv
 $ virtualenv -p python3 k8s_env
